@@ -7,6 +7,9 @@ USAGE:
 
 I don't care what you do with this Engine, but please give credit for the engine! I would be happy if you did.
 
+SRC is the "OLCJavaGameEngine.rar"
+Library is the "One Lone Coffee Engine.jar"
+
 GUIDE:
 
 The library is simple to use.
